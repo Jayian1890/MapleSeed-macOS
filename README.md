@@ -1,4 +1,4 @@
-# MapleSeed-macOS (In develo)
+# MapleSeed-macOS (In development)
 A rewritten version of MapleSee macOS version of MapleSeed for Cemu - The Wii U Emulator
 
 
