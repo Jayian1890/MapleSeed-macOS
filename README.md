@@ -2,6 +2,9 @@
 A rewritten version of MapleSee macOS version of MapleSeed for Cemu - The Wii U Emulator
 
 
+**Discord**: https://discord.gg/J4U6tSDrMK
+
+
 
 ## Summary
 
